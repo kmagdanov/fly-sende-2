@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fly-sende-2/static/css/main.e6c13ad2.css",
-    "main.js": "/fly-sende-2/static/js/main.15650b18.js",
-    "static/js/453.9a5649fe.chunk.js": "/fly-sende-2/static/js/453.9a5649fe.chunk.js",
-    "index.html": "/fly-sende-2/index.html",
-    "main.e6c13ad2.css.map": "/fly-sende-2/static/css/main.e6c13ad2.css.map",
-    "main.15650b18.js.map": "/fly-sende-2/static/js/main.15650b18.js.map",
-    "453.9a5649fe.chunk.js.map": "/fly-sende-2/static/js/453.9a5649fe.chunk.js.map"
+    "main.css": "/fly-sender/static/css/main.e6c13ad2.css",
+    "main.js": "/fly-sender/static/js/main.8a620be8.js",
+    "static/js/453.9a5649fe.chunk.js": "/fly-sender/static/js/453.9a5649fe.chunk.js",
+    "index.html": "/fly-sender/index.html",
+    "main.e6c13ad2.css.map": "/fly-sender/static/css/main.e6c13ad2.css.map",
+    "main.8a620be8.js.map": "/fly-sender/static/js/main.8a620be8.js.map",
+    "453.9a5649fe.chunk.js.map": "/fly-sender/static/js/453.9a5649fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.15650b18.js"
+    "static/js/main.8a620be8.js"
   ]
 }
